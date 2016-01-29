@@ -214,4 +214,4 @@ Note for rails labs moving forward we should be using [flatiron-rails](https://g
   ```
 
 
-<a href='https://learn.co/lessons/lab-templates' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/lab-templates' title='Lab Outline:'>Lab Outline:</a> on Learn.co and start learning to code for free.</p>
